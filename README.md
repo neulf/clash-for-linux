@@ -55,9 +55,11 @@ $ cd clash-for-linux
 ```
 
 - 修改权限
+
 ```bash
 $ sudo chmod +x *.sh
 $ sudo chmod +x bin/clash-linux-amd64
+
 
 - 运行启动脚本
 
